@@ -29,5 +29,5 @@ ytick.minor.size: 0
 
 # Custom
 font.sans-serif: Gotham, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
-axes.prop_cycle: cycler('color', ['988EB2', 'FFD9B5', 'E0D4FF', 'B2CCB4', '7EB283'])
+axes.prop_cycle: cycler('color', ['9EA1D4', 'FD8A8A', 'A8D1D1', 'F1F7B5', '7EB283'])
 image.cmap: RdPu
